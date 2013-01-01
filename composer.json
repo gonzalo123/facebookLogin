@@ -1,0 +1,12 @@
+{
+    "autoload":{
+        "psr-0":{
+            "":"lib/"
+        }
+    },
+
+    "require":{
+        "symfony/http-foundation":"dev-master",
+        "facebook/php-sdk":"dev-master"
+    }
+}
